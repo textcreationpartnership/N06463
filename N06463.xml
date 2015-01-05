@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:008201_0000_102E4A7A0D0D2FC0"/>
-            <pb facs="tcp:008201_0001_102E4A7CF0075D48"/>
+            <pb facs="unknown:008201_0000_102E4A7A0D0D2FC0"/>
+            <pb facs="unknown:008201_0001_102E4A7CF0075D48"/>
             <p>
                <hi>New-England's</hi> MISERY, The procuring CAUSE, And A REMEDY proposed.</p>
             <p>COMPOSED <hi>October,</hi> 1758.</p>
@@ -126,7 +126,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:008201_0002_102E4A80880567E0"/>
+            <pb n="3" facs="unknown:008201_0002_102E4A80880567E0"/>
             <head>New-England's MISERY.</head>
             <epigraph>
                <q>
@@ -169,7 +169,7 @@
             <l>Our frontier Towns, the Land around,</l>
             <l>are miserably wasted;</l>
             <l>
-               <pb n="4" facs="tcp:008201_0003_102E4A841B4FAB30"/>
+               <pb n="4" facs="unknown:008201_0003_102E4A841B4FAB30"/>
 Of Cruelty, large Measure we</l>
             <l>most certainly have tasted.</l>
             <l>The <hi>French</hi> combine, the <hi>Indians</hi> join</l>
@@ -199,7 +199,7 @@ Of Cruelty, large Measure we</l>
             <l>With aking Hearts, each one exerts</l>
             <l>the utmost of his Power,</l>
             <l>
-               <pb n="5" facs="tcp:008201_0004_102E4A88F87863F0"/>
+               <pb n="5" facs="unknown:008201_0004_102E4A88F87863F0"/>
 Still lohging the Event to see,</l>
             <l>each Minute seems an Hour:—</l>
             <l>Some Battles they <note n="†" place="bottom">The <hi>French.</hi>
@@ -231,7 +231,7 @@ Still lohging the Event to see,</l>
             <l>Our Fishing-Trade is much decay'd:</l>
             <l>likewise our foreign Traders</l>
             <l>
-               <pb n="6" facs="tcp:008201_0005_102E4A8A8208B0E0"/>
+               <pb n="6" facs="unknown:008201_0005_102E4A8A8208B0E0"/>
 Much Misery do suffer by</l>
             <l>our insolent Invaders:</l>
             <l>Whole Houses stroy'd, and render'd void,</l>
@@ -264,7 +264,7 @@ Much Misery do suffer by</l>
             </l>
          </div>
          <div type="poem">
-            <pb n="7" facs="tcp:008201_0006_102E4A8C056F0590"/>
+            <pb n="7" facs="unknown:008201_0006_102E4A8C056F0590"/>
             <head>The procuring CAUSE.</head>
             <l>THEN let us try if we can spy</l>
             <l>wherein we have offended</l>
@@ -289,7 +289,7 @@ Much Misery do suffer by</l>
             <l>How very few, when first they do</l>
             <l>accept of the Vocation,</l>
             <l>
-               <pb n="8" facs="tcp:008201_0007_102E4A8D88CF2468"/>
+               <pb n="8" facs="unknown:008201_0007_102E4A8D88CF2468"/>
 Sincerely aim to praise God's Name,</l>
             <l>and to promote Salvation!</l>
             <l>How very few among them shew</l>
@@ -319,7 +319,7 @@ Sincerely aim to praise God's Name,</l>
             <l>Pride, carnal Ease, the Flesh to please,</l>
             <l>Injustice, and Oppression,</l>
             <l>
-               <pb n="9" facs="tcp:008201_0008_102E4AA18C6DC728"/>
+               <pb n="9" facs="unknown:008201_0008_102E4AA18C6DC728"/>
 They awfully are tainted by,</l>
             <l>must be my sad Confession:</l>
             <l>Good <hi>Joshua</hi> his Path this Day</l>
@@ -349,7 +349,7 @@ They awfully are tainted by,</l>
             <l>God's holy Day, we waste away</l>
             <l>in trifling, or in sleeping,</l>
             <l>
-               <pb n="10" facs="tcp:008201_0009_102DD10753084C98"/>
+               <pb n="10" facs="unknown:008201_0009_102DD10753084C98"/>
 Or else contriving how to thrive</l>
             <l>in earthly Profit reaping:—</l>
             <l>Our Frontier-Parts, and outer Skirts,</l>
@@ -376,7 +376,7 @@ Or else contriving how to thrive</l>
             <l>and no more Shame discover.</l>
          </div>
          <div type="poem">
-            <pb n="11" facs="tcp:008201_0010_102E4A92A694EC30"/>
+            <pb n="11" facs="unknown:008201_0010_102E4A92A694EC30"/>
             <head>A <hi>REMEDY</hi> proposed.</head>
             <l>NOW therefore then, dear Countrymen,</l>
             <l>since this is our Condition,</l>
@@ -397,7 +397,7 @@ Or else contriving how to thrive</l>
             <l>Let each one see, of Sin he be</l>
             <l>a faithful, sound Rebuker,</l>
             <l>
-               <pb n="12" facs="tcp:008201_0011_102E4A95319F04A8"/>
+               <pb n="12" facs="unknown:008201_0011_102E4A95319F04A8"/>
 Whose preaching Aim is Souls to gain,</l>
             <l>and not for filthy Lucre:</l>
             <l>O Rulers, ye of each Degree,</l>
@@ -427,7 +427,7 @@ Whose preaching Aim is Souls to gain,</l>
             <l>Let us embrace the Terms of Grace,</l>
             <l>and be to <hi>Christ</hi> united,</l>
             <l>
-               <pb n="13" facs="tcp:008201_0012_102E4A98DB139848"/>
+               <pb n="13" facs="unknown:008201_0012_102E4A98DB139848"/>
 And then may we expect that He</l>
             <l>in us will be delighted;—</l>
             <l>Let Men renounce the Tipling-House;</l>
@@ -454,7 +454,7 @@ And then may we expect that He</l>
             <l>And let each one, who dwelleth on</l>
             <l>our Country's outmost Border,</l>
             <l>
-               <pb n="14" facs="tcp:008201_0013_102E4A9B697232F0"/>
+               <pb n="14" facs="unknown:008201_0013_102E4A9B697232F0"/>
 Who can't enjoy a Ministry,</l>
             <l>nor ecclesiastic Order,</l>
             <l>Let them desire the Milk sincere,</l>
@@ -482,7 +482,7 @@ Who can't enjoy a Ministry,</l>
             <l>Towards us be, and thus may He</l>
             <l>thro' <hi>Christ</hi> his Son be pleased;—</l>
             <l>
-               <pb n="15" facs="tcp:008201_0014_102E4A9F0074D240"/>
+               <pb n="15" facs="unknown:008201_0014_102E4A9F0074D240"/>
 But if we chuse for to abuse,</l>
             <l>and slight this Counsel given,</l>
             <l>We justly may expect to be</l>
@@ -492,7 +492,7 @@ But if we chuse for to abuse,</l>
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:008201_0015_102E4AA675B947D8"/>
+            <pb facs="unknown:008201_0015_102E4AA675B947D8"/>
             <head>BOOKS</head>
             <p>
                <hi>Sold by</hi> Z. Fowle <hi>and</hi> S. Draper, <hi>at their</hi> Print<g ref="char:EOLhyphen"/>ing-Office <hi>and</hi> Shop, <hi>opposite the</hi> Lion &amp; Bell; <hi>in</hi> Marlborough-<hi>Street.</hi>
